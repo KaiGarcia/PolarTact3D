@@ -1,0 +1,5 @@
+matplotlib==3.10.1
+numpy==2.2.4
+opencv_python==4.11.0.86
+polanalyser==3.0.0
+scipy==1.15.2
