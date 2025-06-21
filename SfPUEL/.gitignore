@@ -1,0 +1,7 @@
+data
+SfPUEL_test_data
+results
+__pycache__
+*.zip
+*.png
+*.jpg
