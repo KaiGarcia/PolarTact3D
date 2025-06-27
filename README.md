@@ -3,7 +3,7 @@
 **Single-shot Tactile 3-D Shape & Color Sensing with Polarization Imaging**  
 *(Accepted to the RSS 2025 Workshop “Navigating Contact Dynamics in Robotics: Bridging the Gap Between Modeling, Sensing, and Contact-aware Control”, Los Angeles, USA · 26 June 2025)*  
 
-[**Paper (PDF)**](https://arxiv.org/abs/xxxxx) | [**Project Page**](https://kaigarcia.github.io/PolarTact3D) | **Contact:** Kai Garcia ‹contact@kaigarcia.dev›  
+[**Paper (PDF)**](https://arxiv.org/abs/xxxxx) | [**Project Page**](https://polartact3d.github.io) | **Contact:** Kai Garcia <kaigarciadev@gmail.com>, Huaijin (George) Chen <huaijin@hawaii.edu>
 
 ---
 
@@ -11,7 +11,10 @@
 
 Vision-based tactile sensors are essential for robotic applications such as grasping and physical interaction.  
 We propose a **low-cost, polarization-imaging tactile sensor** that captures **both shape and color in a single shot**.  
-Unlike photometric-stereo solutions (e.g., GelSight) that require precise internal illumination and reflective coatings—which block color capture—our method leverages the **Angle of Linear Polarization (AoLP)** and **Degree of Linear Polarization (DoLP)** to encode 3-D geometry. This enables robust shape reconstruction even on transparent or specular targets. The sensor is built from commercial transparent polyethylene (PE) film and an off-the-shelf polarization camera, making it simple and inexpensive to assemble. We validate the design with real-world experiments across diverse contact surfaces.
+
+Unlike photometric-stereo solutions (e.g., [GelSight](http://gelsight.com/)) that require precise internal illumination and reflective coatings—which block color capture—our method leverages the **Angle of Linear Polarization (AoLP)** and **Degree of Linear Polarization (DoLP)** to encode 3-D geometry. This enables robust shape reconstruction even on transparent or specular targets. 
+
+The sensor is built from commercial transparent polyethylene (PE) film and an off-the-shelf [polarization camera](https://thinklucid.com/product/phoenix-5-mp-imx264/), making it simple and inexpensive to assemble. We validate the design with real-world experiments across diverse contact surfaces.
 
 ---
 
@@ -28,7 +31,7 @@ PolarTact3D/
 │   └── requirements.txt
 └── README.md
 ```
-
+#### You can find the .STEP file in /cad
 ---
 
 ## Quick Start
