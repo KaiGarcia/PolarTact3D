@@ -1,7 +1,7 @@
 # PolarTact3D
 
 **Single-shot Tactile 3-D Shape & Color Sensing with Polarization Imaging**  
-*(Accepted to the RSS 2025 Workshop “Navigating Contact Dynamics in Robotics: Bridging the Gap Between Modeling, Sensing, and Contact-aware Control”, Los Angeles, USA · 26 June 2025)*  
+*(**Winner of Best Paper Award** (3rd Prize) at the RSS 2025 Workshop “Navigating Contact Dynamics in Robotics: Bridging the Gap Between Modeling, Sensing, and Contact-aware Control”, Los Angeles, USA · 26 June 2025)*  
 
 [**Paper (PDF)**](https://arxiv.org/abs/xxxxx) | [**Project Page**](https://polartact3d.github.io) | **Contact:** Kai Garcia <kaigarciadev@gmail.com>, Huaijin (George) Chen <huaijin@hawaii.edu>
 
@@ -65,12 +65,13 @@ jupyter lab visualize_results.ipynb      # loads pretrained weights & runs on sa
 
 ```bibtex
 @inproceedings{garcia2025polartact3d,
-  title     = {PolarTact3D: Single-shot Tactile 3-D Shape and Color Sensing with Polarization Imaging},
+  title     = {{PolarTact3D}: Single-shot Tactile 3-D Shape and Color Sensing with Polarization Imaging},
   author    = {Kai Garcia and Mairi Yoshioka and Huaijin Chen and Tyler Ray and Tianlu Wang and Frances Zhu},
-  booktitle = {RSS Workshop on Navigating Contact Dynamics in Robotics: Bridging the Gap Between Modeling, Sensing, and Contact-aware Control},
+  booktitle = {RSS Workshop on Navigating Contact Dynamics in Robotics},
   year      = {2025},
   address   = {Los Angeles, USA},
-  url       = {https://arxiv.org/abs/xxxxx}
+  url       = {https://arxiv.org/abs/xxxxx},
+  note      = {Workshop paper at RSS 2025}
 }
 
 @inproceedings{lyu2024sfpuel,
