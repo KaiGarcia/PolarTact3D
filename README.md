@@ -7,7 +7,7 @@ Los Angeles, USA · 25 June 2025.
 
 **🏆Best Paper Award** (3rd Prize)🏆
 
-[**Paper (PDF)**](https://arxiv.org/abs/xxxxx) | [**Project Page**](https://polartact3d.github.io) | **Contact:** Kai Garcia <kaigarciadev@gmail.com>, Huaijin (George) Chen <huaijin@hawaii.edu>
+[**Paper (PDF)**](https://polartact3d.github.io/static/pdfs/PolarTact3D_RSSW2025.pdf) | [**Project Page**](https://polartact3d.github.io) | **Contact:** Kai Garcia <kaigarciadev@gmail.com>, Huaijin (George) Chen <huaijin@hawaii.edu>
 
 ---
 
@@ -26,6 +26,8 @@ The sensor is built from commercial transparent polyethylene (PE) film and an of
 
 ```text
 PolarTact3D/
+├── cad/                  # .step cad file of prototype (sketch)
+│   └── polartact3d_cad.step 
 ├── SfPUEL/               # Learning-based pipeline
 │   ├── tools/       
 │   │   └── visualize_results.ipynb # Visualize paper figures
@@ -35,7 +37,7 @@ PolarTact3D/
 │   └── requirements.txt
 └── README.md
 ```
-#### You can find the .STEP file in /cad
+
 ---
 
 ## Quick Start
@@ -74,7 +76,6 @@ If you find this work useful for your research, please cite:
   booktitle = {Robotics: Science and Systems Workshop on Navigating Contact Dynamics in Robotics},
   year      = {2025},
   address   = {Los Angeles, USA},
-  url       = {https://arxiv.org/abs/xxxxx},
   note      = {Workshop paper at RSS 2025}
 }
 ```
