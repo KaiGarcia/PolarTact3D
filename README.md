@@ -1,7 +1,8 @@
 # PolarTact3D
 
-**Single-shot Tactile 3-D Shape & Color Sensing with Polarization Imaging**  
-*(**Winner of Best Paper Award** (3rd Prize) at the RSS 2025 Workshop “Navigating Contact Dynamics in Robotics: Bridging the Gap Between Modeling, Sensing, and Contact-aware Control”, Los Angeles, USA · 26 June 2025)*  
+## Single-shot Tactile 3-D Shape & Color Sensing with Polarization Imaging
+
+**🏆Best Paper Award** (3rd Prize)🏆 at the [RSS 2025 Workshop on Navigating Contact Dynamics in Robotics](https://sites.google.com/colorado.edu/ws-contact-dynamics/home), Los Angeles, USA · 26 June 2025.
 
 [**Paper (PDF)**](https://arxiv.org/abs/xxxxx) | [**Project Page**](https://polartact3d.github.io) | **Contact:** Kai Garcia <kaigarciadev@gmail.com>, Huaijin (George) Chen <huaijin@hawaii.edu>
 
@@ -67,7 +68,7 @@ If you find this work useful for your research, please cite:
 @inproceedings{garcia2025polartact3d,
   title     = {{PolarTact3D}: Single-shot Tactile 3-D Shape and Color Sensing with Polarization Imaging},
   author    = {Kai Garcia and Mairi Yoshioka and Huaijin Chen and Tyler Ray and Tianlu Wang and Frances Zhu},
-  booktitle = {RSS Workshop on Navigating Contact Dynamics in Robotics},
+  booktitle = {Robotics: Science and Systems Workshop on Navigating Contact Dynamics in Robotics},
   year      = {2025},
   address   = {Los Angeles, USA},
   url       = {https://arxiv.org/abs/xxxxx},
@@ -89,6 +90,12 @@ The shape-from-polarization network used in this work is based on:
 ## License
 
 Released under the **MIT License**. See `LICENSE` for details.
+
+---
+
+## Ackonwledgement
+
+The presentation of the work at the RSS 2025 is made possible through the NSF AI Institutes Virtual Organization (AIVO) Travel Grant Program. Thank you, NSF! The $250 prize money is sponsored by Apple Inc. Thank you, organizers and Apple!
 
 ---
 
