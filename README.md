@@ -2,9 +2,9 @@
 
 ## Single-shot Tactile 3-D Shape & Color Sensing with Polarization Imaging
 
-**🏆Best Paper Award** (3rd Prize)🏆
-
 [Robotics: Science and Systems (RSS) 2025](https://roboticsconference.org/) - [Workshop on Navigating Contact Dynamics in Robotics](https://sites.google.com/colorado.edu/ws-contact-dynamics/home), Los Angeles, USA · 26 June 2025.
+
+**🏆Best Paper Award** (3rd Prize)🏆
 
 [**Paper (PDF)**](https://arxiv.org/abs/xxxxx) | [**Project Page**](https://polartact3d.github.io) | **Contact:** Kai Garcia <kaigarciadev@gmail.com>, Huaijin (George) Chen <huaijin@hawaii.edu>
 
