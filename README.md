@@ -62,7 +62,7 @@ jupyter lab visualize_results.ipynb      # loads pretrained weights & runs on sa
 ---
 
 ## Citation
-
+If you find this work useful for your research, please cite:
 ```bibtex
 @inproceedings{garcia2025polartact3d,
   title     = {{PolarTact3D}: Single-shot Tactile 3-D Shape and Color Sensing with Polarization Imaging},
@@ -73,7 +73,9 @@ jupyter lab visualize_results.ipynb      # loads pretrained weights & runs on sa
   url       = {https://arxiv.org/abs/xxxxx},
   note      = {Workshop paper at RSS 2025}
 }
-
+```
+The shape-from-polarization network used in this work is based on:
+```bibtex
 @inproceedings{lyu2024sfpuel,
   title     = {Sf{PUEL}: Shape from Polarization under Unknown Environment Light},
   author    = {Youwei Lyu and Heng Guo and Kailong Zhang and Si Li and Boxin Shi},
