@@ -2,7 +2,8 @@
 
 ## Single-shot Tactile 3-D Shape & Color Sensing with Polarization Imaging
 
-[Robotics: Science and Systems (RSS) 2025](https://roboticsconference.org/) - [Workshop on Navigating Contact Dynamics in Robotics](https://sites.google.com/colorado.edu/ws-contact-dynamics/home), Los Angeles, USA · 26 June 2025.
+[Robotics: Science and Systems (RSS) 2025](https://roboticsconference.org/) - [Workshop on Navigating Contact Dynamics in Robotics](https://sites.google.com/colorado.edu/ws-contact-dynamics/home), 
+Los Angeles, USA · 25 June 2025.
 
 **🏆Best Paper Award** (3rd Prize)🏆
 
