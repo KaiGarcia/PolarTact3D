@@ -73,9 +73,8 @@ If you find this work useful for your research, please cite:
 @inproceedings{garcia2025polartact3d,
   title     = {{PolarTact3D}: Single-shot Tactile 3-D Shape and Color Sensing with Polarization Imaging},
   author    = {Kai Garcia and Mairi Yoshioka and Huaijin Chen and Tyler Ray and Tianlu Wang and Frances Zhu},
-  booktitle = {Robotics: Science and Systems Workshop on Navigating Contact Dynamics in Robotics},
+  booktitle = {Navigating Contact Dynamics in Robotics (RSS)},
   year      = {2025},
-  address   = {Los Angeles, USA},
   note      = {Workshop paper at RSS 2025}
 }
 ```
